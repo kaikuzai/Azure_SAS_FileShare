@@ -1,0 +1,11 @@
+{
+  "name": "azure_sas_fileshare",
+  "version": "1.0.0",
+  "description": "An web application where users can safely share files using Azure Shared Access Signatures (SAS) the users can give the expire date of the access token adding additional control.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
