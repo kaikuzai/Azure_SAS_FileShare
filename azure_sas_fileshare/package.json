@@ -30,5 +30,12 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  
+    "resolutions": {
+      "rimraf": "^4.0.0",
+      "glob": "^9.0.0",
+      "@humanwhocodes/object-schema": "^3.0.0",
+      "@humanwhocodes/config-array": "^1.0.0"
+    }
 }
